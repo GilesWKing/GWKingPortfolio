@@ -2,8 +2,8 @@
 
 ## Hydrographic Surveyor / Physics Teacher / Front-End Web Dev / Business Analyst
 
+
 ## Current Role: Business Analyst for Nant Limited
-===================
 
 ### [May 2021](may2021.md)
 Established Business Metrics Dashboard towards 2021 Strategy objectives within [Tableau](https://www.tableau.com/en-gb/products/cloud-bi).
@@ -35,7 +35,6 @@ Moderning legacy software;
 - Business Case presentation and highlighting areas for improvements.
 
 ## Business Analyst for Nant Limited
-===================
 
 ### April 2020
 Building custom dashboard solution to display business KPI's;
@@ -59,5 +58,4 @@ As a new starter in Nant Limited;
 - Designing the UI for internal training software systems.
 
 ## Graduate Software Developer for Nant Limited
-===============================================
 
