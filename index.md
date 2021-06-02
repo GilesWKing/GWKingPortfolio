@@ -4,7 +4,7 @@
 - Communication and facilitation
 - Improving software and business processes
 
-## [Front-End Web Dev](graduatesoftwaredev.md)
+## [Graduate Software Developer](graduatesoftwaredev.md)
 - Learning web dev languages - HTML, JS, CSS, PHP & MySQL
 
 ## [Physics Teacher](physicsteacher.md)
