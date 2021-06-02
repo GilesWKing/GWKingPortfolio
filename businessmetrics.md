@@ -1,0 +1,22 @@
+# May 2021
+
+## Project
+Established Business Metrics Dashboard towards 2021 Strategy objectives within [Tableau](https://www.tableau.com/en-gb/products/cloud-bi).
+
+## Project Goal
+As a part of Nant's 2021 business strategy, we collectively wanted to drive an environmental campaign. 
+
+Our pledge was to reduce our carbon footprint, water and paper usage as an organisation.
+
+One of the best ways to ensure we are doing this is by monitoring what we our current metrics were.
+
+After knowing what we consume, we are able to set targets and begin lowering our resource usage.
+
+## Project Outcomes
+Tableau has proven an invaluable tool for storing, displaying and monitoring our fuel usage, expenditure, and CO2 output.
+
+Combining our water, gas and paper bills, we are able to estimate the usage for these resources.
+
+It has been a real eye opener to individuals wihtin the business as to just how much the organisation uses.
+
+It has helped us to identify which of our fleet vehicles are more efficient than others, and which vehicles to consider buying in the future to reduce our emissions.
