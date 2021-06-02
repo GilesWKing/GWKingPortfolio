@@ -2,15 +2,15 @@
 
 ## [Business Analyst](businessanalyst.md)
 - Communication and facilitation
-- Improving software
+- Improving software and business processes
 
 ## [Front-End Web Dev](graduatesoftwaredev.md)
 - Learning web dev languages - HTML, JS, CSS, PHP & MySQL
 
-## Physics Teacher
+## [Physics Teacher](physicsteacher.md)
 - Organisational and communication skills
+- Educator and facilitator
 
-## Hydrographic Surveyor
+## [Hydrographic Surveyor](hydrographicsurveyor.md)
 - Teamwork and task management skills
-
 
